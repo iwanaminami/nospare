@@ -1,4 +1,4 @@
-# nospare
+# Nospareセミナーの演習用資料
 
 以下からGoogle Colaboratoryで開くこともできます。
 
